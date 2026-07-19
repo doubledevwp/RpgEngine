@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\RpgEngine.Combat\RpgEngine.Combat.csproj" />
+  </ItemGroup>
+
 </Project>

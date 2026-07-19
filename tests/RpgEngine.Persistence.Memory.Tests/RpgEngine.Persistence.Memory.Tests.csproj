@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\RpgEngine.Persistence.Memory\RpgEngine.Persistence.Memory.csproj" />
+  </ItemGroup>
+
 </Project>
