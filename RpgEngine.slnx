@@ -1,2 +1,20 @@
 <Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/ConsoleDemo/ConsoleDemo.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/RpgEngine.Characters/RpgEngine.Characters.csproj" />
+    <Project Path="src/RpgEngine.Combat/RpgEngine.Combat.csproj" />
+    <Project Path="src/RpgEngine.Core/RpgEngine.Core.csproj" />
+    <Project Path="src/RpgEngine.Items/RpgEngine.Items.csproj" />
+    <Project Path="src/RpgEngine.Persistence.Memory/RpgEngine.Persistence.Memory.csproj" />
+    <Project Path="src/RpgEngine.Rules/RpgEngine.Rules.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RpgEngine.Characters.Tests/RpgEngine.Characters.Tests.csproj" />
+    <Project Path="tests/RpgEngine.Combat.Tests/RpgEngine.Combat.Tests.csproj" />
+    <Project Path="tests/RpgEngine.Core.Tests/RpgEngine.Core.Tests.csproj" />
+    <Project Path="tests/RpgEngine.Items.Tests/RpgEngine.Items.Tests.csproj" />
+    <Project Path="tests/RpgEngine.Persistence.Memory.Tests/RpgEngine.Persistence.Memory.Tests.csproj" />
+  </Folder>
 </Solution>
