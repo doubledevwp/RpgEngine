@@ -6,15 +6,13 @@ Date: {YYYY-MM-DD}
 
 Decider(s): 
 
-## Decision
-
 ## Context and Problem
 
 ## Considered Options
 1. Option 1
 1. Option 2
 
-##Decision
+## Decision
 
 ## Consequences
 1. {Bad|Good} - Consequence A
