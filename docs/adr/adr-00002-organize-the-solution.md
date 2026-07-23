@@ -14,7 +14,7 @@ How should the RPG Engine be organized?
 1. Multiple class libraries
 1. Microservices
 
-##Decision
+## Decision
 Multiple class libraries as a modular monolith
 
 Initial projets include:
