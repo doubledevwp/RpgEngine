@@ -41,7 +41,7 @@ A standardized approach to documenting architectural decisions is therefore requ
 
 The RPG Engine will use a custom Architectural Decision Record format based primarily on the concepts introduced by Michael Nygard and MADR while adapting the structure to better fit the needs of this project.
 
-Each ADR should clearly communicate:
+Each ADR **should** clearly communicate:
 
 - The problem being solved.
 - The alternatives that were considered.
@@ -52,6 +52,17 @@ Each ADR should clearly communicate:
 Architectural Decision Records should document **significant architectural decisions**, not implementation details. They should explain *why* the project is designed the way it is rather than describing *how* individual features were implemented.
 
 ADRs are considered living documents. If an architectural decision changes over time, the existing ADR should not be rewritten to hide history. Instead, a new ADR should supersede or deprecate the previous decision, preserving the architectural evolution of the project.
+
+Architectural Decision Records document why the architecture exists in its current form.
+
+They are **not** intended to replace:
+
+- API documentation
+- User documentation
+- Coding standards
+- Development guides
+- Pull request descriptions
+- Commit history
 
 ## Decision Rules
 
