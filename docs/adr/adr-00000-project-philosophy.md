@@ -1,7 +1,7 @@
 # Project Philosophy
 
 ## Status
-Accepted
+### Accepted
 
 Decision Question: What guiding philosophy should influence architectural and development decisions throughout the RPG Engine?
 
