@@ -15,11 +15,11 @@ Superseded By: None
 
 ## Related Decisions
 
-Depends On: [ADR-00000-framework-philosophy](./adr-00000-framework-philosophy.md)
+Depends On: [adr-00000-framework-philosophy](./adr-00000-framework-philosophy.md)
 
 Extends: None
 
-Related To: [ADR-00003-organize-projects-by-business-domains](./adr-00003-organize-projects-by-business-domain.md)
+Related To: [adr-00003-organize-projects-by-business-domains](./adr-00003-organize-projects-by-business-domain.md)
 
 ## Context and Problem
 
