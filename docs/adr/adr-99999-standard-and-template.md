@@ -71,12 +71,12 @@ Examples:
 
 List both the positive and negative consequences of the decision. Whenever possible, explain *why* each consequence exists instead of simply listing it.
 
-**Advantages**
+### Advantages
 
 1. Consequence A
 1. Consequence B
 
-**Disadvantages**
+### Disadvantages
 1. Consequence C
 1. Consequence D
 
