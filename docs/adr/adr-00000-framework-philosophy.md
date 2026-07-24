@@ -1,4 +1,4 @@
-# Project Philosophy
+# Framework Philosophy
 
 ## Status
 ### Accepted
@@ -21,11 +21,11 @@ Extends: None
 Related To: None
 
 ## Context and Problem
-The RPG Engine is intended to be a long-lived framework for building tabletop role-playing game systems rather than a single game or short-term application. As the project grows, architectural and implementation decisions will become increasingly complex, requiring trade-offs between development speed, maintainability, extensibility, correctness, and technical quality.
+The RPG Engine is intended to be a long-lived framework for building tabletop role-playing game systems rather than a single game or short-term application. As the framework grows, architectural and implementation decisions will become increasingly complex, requiring trade-offs between development speed, maintainability, extensibility, correctness, and technical quality.
 
-Without a clearly defined project philosophy, decisions may become inconsistent over time, resulting in technical debt, unnecessary complexity, conflicting architectural patterns, and reduced long-term maintainability.
+Without a clearly defined framework philosophy, decisions may become inconsistent over time, resulting in technical debt, unnecessary complexity, conflicting architectural patterns, and reduced long-term maintainability.
 
-This ADR establishes the guiding philosophy that should influence future architectural decisions, coding standards, development practices, and project governance. Subsequent ADRs should align with these principles unless explicitly superseded by a future architectural decision.
+This ADR establishes the guiding philosophy that should influence future architectural decisions, coding standards, development practices, and framework governance. Subsequent ADRs should align with these principles unless explicitly superseded by a future architectural decision.
 
 
 ## Considered Options
@@ -97,7 +97,7 @@ The following principles should guide future architectural and implementation de
 
 ### Maintainability
 
-Code should be written with the expectation that it will be modified repeatedly throughout the lifetime of the project. Designs that simplify future maintenance are preferred over solutions that merely minimize initial implementation effort.
+Code should be written with the expectation that it will be modified repeatedly throughout the lifetime of the framework. Designs that simplify future maintenance are preferred over solutions that merely minimize initial implementation effort.
 
 ### Readability
 
