@@ -22,9 +22,11 @@ Supersedes: {None|adr-#####}
 Superseded By: {None|adr-#####}
 
 ## Related Decisions
-- Depends On: {None|adr-#####}
-- Extends: {None|adr-#####}
-- Related To: {None|adr-#####}
+Depends On: {None|adr-#####}
+
+Extends: {None|adr-#####}
+
+Related To: {None|adr-#####}
 
 ## Context and Problem
 
@@ -62,14 +64,21 @@ Examples:
 1. Rule B
 1. Rule C
 
+> [!NOTE] 
 > If the ADR establishes guiding principles rather than enforceable rules, this section may be renamed to **Decision Principles**.
 
 ## Consequences
 
 List both the positive and negative consequences of the decision. Whenever possible, explain *why* each consequence exists instead of simply listing it.
 
-1. Positive - Consequence A
-1. Negative - Consequence B
+**Advantages**
+
+1. Consequence A
+1. Consequence B
+
+**Disadvantages**
+1. Consequence C
+1. Consequence D
 
 ## References *(Optional)*
 List any documents, standards, ADRs, books, specifications, or other resources that informed this decision.
