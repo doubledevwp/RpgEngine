@@ -9,7 +9,7 @@
 # ADR Title
 
 ## Status
-{See Values table below}
+### {See Values table below}
 
 Decision Question: {What architectural question does this ADR answer?}
 
