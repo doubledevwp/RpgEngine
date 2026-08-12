@@ -54,7 +54,7 @@ Do not create ADRs for:
 - Bug fixes
 - Feature implementations
 - Coding style
-- Build configuration
+- Individual build settings
 - Dependency updates
 - Routine maintenance
 - Temporary workarounds
