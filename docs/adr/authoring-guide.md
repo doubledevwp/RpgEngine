@@ -102,6 +102,8 @@ Available status values are:
 - Deprecated
 - Rejected
 - Superseded
+- Withdrawn
+- Obsolete
 
 ---
 
