@@ -38,7 +38,7 @@ Examples that generally do **not** require their own Standard include:
 
 See:
 - [template.md](./template.md)
-- [standards.md](./standards.md)
+- [standards-authoring-guide.md](./standards-authoring-guide.md)
 
 <br />
 <hr />
